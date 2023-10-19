@@ -1,5 +1,5 @@
  ---------------------------------------------------------------------------------------------
-| # Projet 2CP - VISUAL LEARNING                                                              |
+| # Projet 2CP - VISUAL LEARNING    (Site: https://visuellearning.netlify.app/)               |
 |                                                                                             |
 | [ANNAD Walid : membre de l'équipe]                                                          |
 |                                                                                             |
@@ -9,7 +9,7 @@
 |                                                                                             |
 |*********************************************************************************************|
 |                                                                                             |
-| # 2CP Project - VISUAL LEARNING                                                             |
+| # 2CP Project - VISUAL LEARNING    (Site: https://visuellearning.netlify.app/)              |
 |                                                                                             |
 | [ANNAD Walid : team member]                                                                 |
 |                                                                                             |
